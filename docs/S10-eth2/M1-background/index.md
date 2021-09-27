@@ -23,7 +23,7 @@ Phase 0 is the phase most public one now, as it's currently undergoing public te
 * [Teku](https://pegasys.tech/teku/) — Java-based client developed by ConsenSys Software
 * [Prysm](https://github.com/prysmaticlabs/prysm) — Go-based client developed by Prysmatic Labs
 * [Lighthouse](https://github.com/sigp/lighthouse) — Rust-based client developed by Sigma Prime
-* [Lodestar](https://github.com/ChainSafeSystems/lodestar_chain) — Javascript-based client
+* [Lodestar](https://github.com/ChainSafeSystems/lodestar_chain) — JavaScript-based client
 * [Nimbus](https://github.com/status-im/nimbus) — Nim-based client developed by Status
 
 The Medalla testnet was the first, public, multi-client testnet available. You can check out its progress [here](https://eth2stats.io/medalla-testnet) and join the testnet [by following these steps.](https://medalla.launchpad.ethereum.org/)
@@ -45,5 +45,6 @@ You can read the entire Ethereum 2.0 spec, including phases 0, 1 and 2 [here.](h
 - <a href="https://consensys.net/knowledge-base/ethereum-2/glossary/" target="_blank" rel="noopener noreferrer">Ethereum 2.0 Glossary (ConsenSys)</a>
 - [Ethereum 2.0 Terms Demystified](https://medium.com/alethio/ethereum-2-0-terms-demystified-8398357429d7){target=_blank}
 - <a href="https://consensys.net/knowledge-base/ethereum-2/" target="_blank" rel="noopener noreferrer">Ethereum 2.0 Knowledge Base</a>
+- <a href="https://messari.io/pdf/messari-report-eth2-the-next-evolution-of-cryptoeconomy.pdf" target="_blank" rel="noopener noreferrer">Report: ETH2, The Next Evolution of Cryptoeconomy (Messari)</a>
 - <a href="https://consensys.net/blog/blockchain-explained/my-journey-to-becoming-a-validator-on-ethereum-2-0/" target="_blank" rel="noopener noreferrer">My Journey to Becoming a Validator on Ethereum 2.0 — Part 1</a> Coogan walks through a four-part series of becoming a validator on Ethereum 2.0. Started before the Beacon Chain launched!
 - To follow the progress of Ethereum 2.0, subscribe to [What's New in Eth2,](https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_200822){target=_blank} which sends weekly updates.
